@@ -1,0 +1,5 @@
+openai
+selenium
+webdriver_manager
+bs4
+dotenv

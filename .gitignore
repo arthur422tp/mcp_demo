@@ -1,5 +1,4 @@
 \.venv
-*.txt
 __pycache__/
 .env
 demo.ipynb
